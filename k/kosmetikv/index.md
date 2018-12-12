@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.10.1997 I 2410
 
 Zuletzt geändert durch
-:   Art. 1 V v. 6.7.2012 I 1481
+:   Art. 1 V v. 21.12.2012 I 2/2013
 
 
 ## § 1 Allgemein verbotene Stoffe
@@ -993,6 +993,11 @@ geltenden Fassung sind noch bis zum 1. Dezember 2010 anzuwenden.
 
 (21) Bis zum Ablauf des 30. Oktober 2012 ist Anlage 2 Teil A Nummer 12
 in der am 16. Juli 2012 geltenden Fassung weiter anzuwenden.
+
+(22) Bis zum Ablauf des 31. August 2013 sind Anlage 2 Teil A Nummer 16 
+und 22 und Anlage 2 Teil C Nummer 10 und 50 in der am 14. Januar 2013 
+geltenden Fassung weiter anzuwenden. Anlage 1 Teil A Nummer 1373 und 
+Anlage 2 Teil A Nummer 253 bis 278 sind ab dem 1. September 2013 anzuwenden.
 
 
 ## § 7
@@ -5549,6 +5554,8 @@ nach Maßgabe der in Anlage 2 Teil B Nr. 5 angegebenen Bedingungen
 1372. 2-Aminophenol (o-Aminophenol, CI 76520) und seine Salze (CAS-Nr.
     95-55-6/67845-79-8/51-19-4 EG-Nr. 202-431-1/267-335-4)
 
+1373. N-(2-Nitro-4-aminophenyl)-allylamin (HC Red No. 16) und seine Salze 
+    (CAS-Nr. 160219-76-1)
 
 
 -----
@@ -6474,8 +6481,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
         e)  Darf nur an Zahnärzte abgegeben werden. In jedem Anwendungszyklus muss
-            die erste Anwendung stets einem Zahnarzt im Sinne der Richtlinie
-            2005/36/EG (ABl. L 255 vom 30.9. 2005, S. 22) vorbehalten sein oder
+            die erste Anwendung stets einem Zahnarzt vorbehalten sein oder
             unter dessen direkter Aufsicht erfolgen, soweit ein gleichwertiges
             Sicherheitsniveau gewährleistet ist. Danach muss das Mittel dem
             Verbraucher für den verbleibenden Anwendungszyklus bereitgestellt
@@ -6492,8 +6498,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             2                             -Konzentration in Prozent angeben.
             Nicht bei Personen unter 18 Jahren anwenden.
             Darf nur an Zahnärzte abgegeben werden. In jedem Anwendungszyklus muss
-            die erste Anwendung stets einem Zahnarzt im Sinne der Richtlinie
-            2005/36/EG (ABl. L 255 vom 30.9. 2005, S. 22) vorbehalten sein oder
+            die erste Anwendung stets einem Zahnarzt vorbehalten sein oder
             unter dessen direkter Aufsicht erfolgen, falls ein gleichwertiges
             Sicherheitsniveau gewährleistet ist. Danach muss das Mittel dem
             Verbraucher für den verbleibenden Anwendungszyklus bereitgestellt
@@ -6840,16 +6845,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   16
 
-    *   1-Naphthol (CAS-Nr. 90-15-3) und seine Salze
+    *   1-Naphthalenol
+        1-Naphthol 
+        CAS-Nr. 90-15-3
+        EG-Nr. 201-969-4
 
-    *   Oxidationshaarfärbemittel
+    *   Haarfärbestoff in oxidativen Haarfärbemitteln
 
-    *   2,0%
+    *   
 
-    *   In Verbindung mit Wasserstoffperoxid gilt eine Höchstkonzentration bei
-        der Anwendung von 1,0%
+    *   Nach dem Mischen unter oxidativen Bedingungen darf die 
+        Höchstkonzentration bei der Anwendung am Haar 2,0 % nicht
+        überschreiten.
 
-    *        ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)   Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+    *   Das Mischverhältnis muss auf dem Etikett angegeben werden.
+    
+        ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)   Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
         Bitte folgende Hinweise lesen und beachten:
         Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
         Temporäre Tätowierungen mit „schwarzem Henna“ können das
@@ -6946,116 +6957,74 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   22
 
-    *   Resorcin
+    *   1,3-Benzoldiol
+        Resorcin
+        CAS-Nr. 108-46-3
+        EG-Nr. 203-585-2
 
-    *
-        a)  Oxidations-Haarfärbemittel
+    *   a)  a) Haarfärbestoff in oxidativen Haarfärbemitteln
+                1. allgemeine Verwendung
+                2. gewerbliche Verwendung
 
+    *  
 
+    *   a) Nach dem Mischen unter oxidativen Bedingungen darf die
+           Höchstkonzentration bei der Anwendung am Haar 1,25 % nicht
+           überschreiten.
 
+    *   a)
+            1.  Enthält Resorcin. Nach Anwendung die Haare gut spülen. 
+                Nicht zur Färbung von Wimpern und Augenbrauen verwenden. 
+                Sofort Augen spülen, falls das Erzeugnis mit den Augen in Berührung
+                gekommen ist.
+                Das Mischverhältnis muss auf dem Etikett angegeben werden.
 
-    *
-        a)  5% (xx)
+                ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)        Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+                Bitte folgende Hinweise lesen und beachten:
+                Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
+                Temporäre Tätowierungen mit „schwarzem Henna“ können das
+                Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
 
+                -   wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut
+                    empfindlich, gereizt oder verletzt ist;
+    
+                -   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
+                    festgestellt haben;
 
+                -   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
+                    einmal eine Reaktion verursacht hat.
 
-
-    *
-    *
-        a)
-
-
-
-
-*    *
-        1.  allgemeine Verwendung
-
-
-
-
-    *
-        *
-            1.  Enthält Resorcin. Nach Anwendung die Haare gut spülen. Nicht zur
-                Färbung von Wimpern und Augenbrauen verwenden. Sofort Augen spülen,
-                falls das Erzeugnis mit den Augen in Berührung gekommen ist.
-
-
-
-
-
-
-        ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)        Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
-        Bitte folgende Hinweise lesen und beachten:
-        Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
-        Temporäre Tätowierungen mit „schwarzem Henna“ können das
-        Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
-
-        -   wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut
-            empfindlich, gereizt oder verletzt ist;
-
-
-        -   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
-            festgestellt haben;
-
-
-        -   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
-            einmal eine Reaktion verursacht hat.
-
-
-
-
-
-*    *
-        2.  gewerbliche Verwendung
-
-
-
-
-    *
-        *
             2.  Nur für gewerbliche Verwendung. Enthält Resorcin. Sofort Augen spülen,
                 falls das Erzeugnis mit den Augen in Berührung gekommen ist.
+                Das Mischverhältnis muss auf dem Etikett angegeben werden.
+
+                ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)        Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+                Bitte folgende Hinweise lesen und beachten:
+                Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
+                Temporäre Tätowierungen mit „schwarzem Henna“ können das
+                Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
+
+                -   wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut
+                    empfindlich, gereizt oder verletzt ist;
+
+                -   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
+                    festgestellt haben;
+
+                -   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
+                    einmal eine Reaktion verursacht hat.
 
 
-
-
-
-
-        ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)        Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
-        Bitte folgende Hinweise lesen und beachten:
-        Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
-        Temporäre Tätowierungen mit „schwarzem Henna“ können das
-        Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
-
-        -   wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut
-            empfindlich, gereizt oder verletzt ist;
-
-
-        -   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
-            festgestellt haben;
-
-
-        -   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
-            einmal eine Reaktion verursacht hat.
-
-
-
-
-
-*    *
-        b)  Haarlotion und Shampoo
-
-
-
+*   *
 
     *
-        b)  0,5%
 
+    *  b)  Haarlotion und Shampoo
 
-
+    *  b)  0,5%
 
     *
-        b)  Enthält Resorcin.
+    
+    *  b)  Enthält Resorcin.
 
 
 
@@ -12257,12 +12226,198 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 einmal eine Reaktion verursacht hat.
 
 
+*    *   253
+
+    *   2,2'-[(4-Aminophenyl)imino]bis(ethanol)sulfat
+        N,N-bis(2-Hydroxyethyl)-p-Phenylenediamine Sulfate
+        CAS-Nr. 54381-16-7
+        EG-Nr. 259-134-5
+        
+    *   Haarfärbestoff in oxidativen Haarfärbemitteln
+
+    *
+    
+    *   Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkonzentration
+        bei der Anwendung am Haar 2,5 % (berechnet als Sulfat) nicht überschreiten.
+        – Nicht zusammen mit nitrosierenden Agenzien verwenden
+        – Höchstgehalt an Nitrosamin: 50 μg/kg
+        – In nitritfreien Behältern aufbewahren
+
+    *   Das Mischverhältnis muss auf dem Etikett angegeben werden.
+        ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+        Bitte folgende Hinweise lesen und beachten:
+        Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
+        Temporäre Tätowierungen mit „schwarzem Henna“ können das
+        Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
+
+        –   wenn Sie einen Ausschlag im Gesicht haben oder wenn
+            Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;
+
+        –   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
+            festgestellt haben;
+
+        –   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
+            einmal eine Reaktion verursacht hat.
+
+*    *   254
+
+    *   1,3-Benzoldiol,
+        4-chlor4-Chlororesorcinol
+        CAS-Nr. 95-88-5
+        EG-Nr. 202-462-0
+        
+    *   Haarfärbestoff in oxidativen Haarfärbemitteln
+    
+    *   
+    
+    *   Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkonzentration
+        bei der Anwendung am Haar 2,5 % nicht überschreiten.
+        
+    *   Das Mischverhältnis muss auf dem Etikett angegeben werden.
+        ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+        Bitte folgende Hinweise lesen und beachten:
+        Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
+        Temporäre Tätowierungen mit „schwarzem Henna“ können das
+        Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
+
+        –   wenn Sie einen Ausschlag im Gesicht haben oder wenn
+            Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;
+
+        –   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
+            festgestellt haben;
+
+        –   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
+            einmal eine Reaktion verursacht hat.
+
+*    *   255
+
+    *   2,4,5,6-Tetraaminopyrimidin-sulfat
+        Tetraaminopyrimidine Sulfate
+        CAS-Nr. 5392-28-9
+        EG-Nr. 226-393-0
+
+    *   a) Haarfärbestoff in oxidativen Haarfärbemitteln
+
+    *
+    
+    *   a) Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkonzentration
+           bei der Anwendung am Haar 3,4 % (berechnet als Sulfat) nicht überschreiten.
+
+    *   a) Das Mischverhältnis muss auf dem Etikett angegeben werden.
+        ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+        Bitte folgende Hinweise lesen und beachten:
+        Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
+        Temporäre Tätowierungen mit „schwarzem Henna“ können das
+        Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
+
+        –   wenn Sie einen Ausschlag im Gesicht haben oder wenn
+            Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;
+
+        –   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
+            festgestellt haben;
+
+        –   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
+            einmal eine Reaktion verursacht hat.
+            
+*    *   
+
+    *      
+    
+    *
+    
+    *   b) Haarfärbestoff in nichtoxidativen Haarfärbemitteln
+    
+    *   b) 3,4 % (berechnet als Sulfat)
+    
+    *
+    
+    *
 
 
+*    *   256
 
+    *   3-(2-Hydroxyethyl)-p-phenylendiammonium-sulfat
+        Hydroxyethyl-pPhenylenediamine Sulfate
+        CAS-Nr. 93841-25-9
+        EG-Nr. 298-995-1
+ 
+    *   Haarfärbestoff in oxidativen Haarfärbemitteln
+    
+    *   
+    
+    *   Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkonzentration 
+        bei der Anwendung am Haar 2,0 % (berechnet als Sulfat) nicht überschreiten.
+         ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+        Bitte folgende Hinweise lesen und beachten:
+        Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
+        Temporäre Tätowierungen mit „schwarzem Henna“ können das
+        Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
 
+        –   wenn Sie einen Ausschlag im Gesicht haben oder wenn
+            Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;
 
+        –   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
+            festgestellt haben;
 
+        –   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
+            einmal eine Reaktion verursacht hat.
+ 
+ 
+ *    *   257
+
+    *   1H-Indol-5,6-diol
+        Dihydroxyindole
+        CAS-Nr. 3131-52-0
+        EG-Nr. 412-130-9
+        
+    *   a) Haarfärbestoff in oxidativen Haarfärbemitteln
+
+    *   
+    
+    *   a) Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkonzentration 
+           bei der Anwendung am Haar 0,5 % nicht überschreiten.
+         ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+        Bitte folgende Hinweise lesen und beachten:
+        Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
+        Temporäre Tätowierungen mit „schwarzem Henna“ können das
+        Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
+
+        –   wenn Sie einen Ausschlag im Gesicht haben oder wenn
+            Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;
+
+        –   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
+            festgestellt haben;
+
+        –   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
+            einmal eine Reaktion verursacht hat.
+
+ *    *  
+
+    *
+    
+    *
+    
+    *   b) Haarfärbestoff in nichtoxidativen Haarfärbemitteln
+    
+    *   b) 0,5 %
+
+    *   ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+        Bitte folgende Hinweise lesen und beachten:
+        Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
+        Temporäre Tätowierungen mit „schwarzem Henna“ können das
+        Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
+
+        –   wenn Sie einen Ausschlag im Gesicht haben oder wenn
+            Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;
+
+        –   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
+            festgestellt haben;
+
+        –   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
+            einmal eine Reaktion verursacht hat.
+            
+            
+            
 
 (\*) Dieser Grenzwert gilt für den Stoff und nicht für das kosmetische
 Fertigerzeugnis.
