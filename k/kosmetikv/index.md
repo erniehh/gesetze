@@ -12416,8 +12416,232 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         –   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
             einmal eine Reaktion verursacht hat.
             
-            
-            
+
+| Lfd. Nr. | Stoff | Anwendungsgebiet und/oder Verwendung | Zulässige Höchstkonzentration im kosmetischen Fertigerzeugnis | Weitere Einschränkungen und Anforderungen | Obligatorische Angabe der Anwendungsbedingungen und Warnhinweise auf der Etikettierung |
+| --- | --- | --- | --- | --- | --- |
+| 258 | 5-Amino-4-chlor-2-methylphenolhydrochlorid<br>5-Amino-4-Chloro-o-Cresol HCl<br>CAS-Nr. 110102-85-7 | Haarfärbestoff in oxidativen Haarfärbemitteln | | Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkonzentration bei der Anwendung am Haar 1,5 % (berechnet als Hydrochlorid) nicht überschreiten. | Das Mischverhältnis muss auf dem Etikett angegeben werden.<br>![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.<br>Bitte folgende Hinweise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.<br>Temporäre Tätowierungen mit „schwarzem Henna“ können das<br>Allergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion festgestellt haben;</li><li>wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion verursacht hat.</li></ul>|
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2">Lfd. Nr.</th>
+            <th rowspan="2">Stoff</th>
+            <th colspan="3">Einschränkungen</th>
+            <th rowspan="2">Obligatorische Angabe der Anwendungs&shy;bedingungen und Warn&shy;hinweise auf der Etikettierung</th>
+        </tr>
+        <tr>
+            <th>Anwendungs&shy;gebiet und/oder Verwendung</th>
+            <th>Zulässige Höchstkonzen&shy;tration im kosmetischen Fertigerzeugnis</th>
+            <th>Weitere Einschränkungen und Anforderungen</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">259</td>
+            <td valign="top">1H-Indol-6-ol<br>6-Hydroxyindole<br>CAS-Nr. 2380-86-1<br>EG-Nr. 417-020-4</td>
+            <td valign="top">Haarfärbestoff in oxidativen Haar&shy;färbemitteln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkonzentration bei der Anwendung am Haar 0,5 % nicht überschreiten.</td>
+            <td valign="top">Das Mischverhältnis muss auf dem Etikett angegeben werden.<br>
+                <img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+                Bitte folgende Hinweise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.<br>Temporäre Tätowierungen mit „schwarzem Henna“ können das<br>Allergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion festgestellt haben;</li><li>wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion verursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">260</td>
+            <td valign="top">1H-Indol-2,3-dion<br>Isatin<br>CAS-Nr. 91-56-5<br>EG-Nr. 202-077-8</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haar&shy;färbemitteln</td>
+            <td valign="top">1,6 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top"><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
+                Bitte folgende Hinweise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.<br>Temporäre Tätowierungen mit „schwarzem Henna“ können das<br>Allergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut empfindlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion festgestellt haben;</li><li>wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion verursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">261</td>
+            <td valign="top">2-Aminopyridin-3-ol<br>2-Amino-3-Hydroxy&shy;pyridine<br>CAS-Nr. 16867-03-1<br>EG-Nr. 240-886-8</td>
+            <td valign="top">Haarfärbestoff in oxidativen Haar&shy;färbemitteln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">Nach dem Mi&shy;schen unter oxi&shy;dativen Bedin&shy;gungen darf die Höchstkonzen&shy;tration bei der Anwendung am Haar 1,0 % nicht überschreiten.</td>
+            <td valign="top">Das Mischverhältnis muss auf dem Eti&shy;kett angegeben werden.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">262</td>
+            <td valign="top">2-Methyl-1-naphthylacetat<br>1-Acetoxy-2-Methylnaphthalene<br>CAS-Nr. 5697-02-9<br>EG-Nr. 454-690-7</td>
+            <td valign="top">Haarfärbestoff in oxidativen Haar&shy;färbemitteln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">Nach dem Mi&shy;schen unter oxi&shy;dativen Bedin&shy;gungen darf die Höchstkonzen&shy;tration bei der Anwendung am Haar 2,0 % nicht überschreiten.<br>(Enthält die Rezeptur eines Haarfärbemittels sowohl 2-Me&shy;thyl-1-Naphthol als auch 1-Ace&shy;toxy-2-Methyl&shy;naphthalene, sollte die Höchstkon&shy;zentration an 2-Methyl-1-Naphthol am Kopf 2,0 % nicht überschreiten.)</td>
+            <td valign="top">Das Mischverhältnis muss auf dem Eti&shy;kett angegeben werden.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">263</td>
+            <td valign="top">1-Hydroxy-2-methylnaphthalen<br>2-Methyl-1-Naphthol<br>CAS-Nr. 7469-77-4<br>EG-Nr. 231-265-2</td>
+            <td valign="top">Haarfärbestoff in oxidativen Haar&shy;färbemitteln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">Nach dem Mi&shy;schen unter oxi&shy;dativen Bedin&shy;gungen darf die Höchstkonzen&shy;tration bei der Anwendung am Haar 2,0 % nicht überschreiten.<br>(Enthält die Rezeptur eines Haarfärbemittels sowohl 2-Me&shy;thyl-1-Naphthol als auch 1-Ace&shy;toxy-2-Methyl&shy;naphthalene, sollte die Höchstkon&shy;zentration an 2-Methyl-1-Naphthol am Kopf 2,0 % nicht überschreiten.)</td>
+            <td valign="top">Das Mischverhältnis muss auf dem Eti&shy;kett angegeben werden.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">264</td>
+            <td valign="top">Dinatrium-5,7-dinitro-8-oxid-2-naphthalensulfonat<br>Acid Yellow 1<br>CAS-Nr. 846-70-8<br>EG-Nr. 212-690-2<br>CI 10316</td>
+            <td valign="top">a) Haarfärbestoff in oxidativen Haar&shy;färbemitteln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">a) Nach dem Mi&shy;schen unter oxi&shy;dativen Bedin&shy;gungen darf die Höchstkon&shy;zen&shy;tration bei der Anwendung am Haar 1,0 % nicht überschreiten.</td>
+            <td valign="top">a) Das Mischverhältnis muss auf dem Eti&shy;kett angegeben werden.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">b) Haarfärbestoff in nichtoxidativen Haar&shy;färbemitteln</td>
+            <td valign="top">b) 0,2 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">b) <img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">265</td>
+            <td valign="top">4-Nitro-1,2-phenylendiamin<br>4-Nitro-oPhenylenediamine<br>CAS-Nr. 99-56-9<br>EG-Nr. 202-766-3</td>
+            <td valign="top">Haarfärbestoff in oxidativen Haar&shy;färbemitteln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">Nach dem Mi&shy;schen unter oxi&shy;dativen Bedin&shy;gungen darf die Höchstkon&shy;zen&shy;tration bei der Anwendung am Haar 0,5 % nicht überschreiten.</td>
+            <td valign="top">Das Mischverhältnis muss auf dem Eti&shy;kett angegeben werden.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">266</td>
+            <td valign="top">2-(4-Amino-3-nitroanilin)ethanol<br>HC Red No. 7<br>CAS-Nr. 24905-87-1<br>EG-Nr. 246-521-9</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">1,0 %</td>
+            <td valign="top"><ul><li>Nicht zusam&shy;men mit ni&shy;trosierenden Agenzien ver&shy;wenden</li><li>Höchstgehalt an Nitrosa&shy;min: 50 μg/kg</li><li>In nitritfreien Behältern aufbewahren</li></ul></td>
+            <td valign="top"><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</li></ul></td>
+        </tr>
+        <tr>
+            <td valign="top">267</td>
+            <td valign="top">2-[bis(2-Hydroxyethyl)amino]-5-nitrophenol<br>HC Yellow No. 4<br>CAS-Nr. 59820-43-8<br>EG-Nr. 428-840-7</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">1,5 %</td>
+            <td valign="top"><ul><li>Nicht zusam&shy;men mit ni&shy;trosierenden Agenzien ver&shy;wenden</li><li>Höchstgehalt an Nitrosa&shy;min: 50 μg/kg</li><li>In nitritfreien Behältern aufbewahren</li></ul></td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">268</td>
+            <td valign="top">2-[(2-Nitrophenyl)amino]ethanol<br>HC Yellow No. 2<br>CAS-Nr. 4926-55-0<br>EG-Nr. 225-555-8</td>
+            <td valign="top">a) Haarfärbestoff in oxidativen Haarfärbemit&shy;teln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">a) Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkonzentration  bei der Anwendung am Haar 0,75 % nicht überschreiten.<br>Für a) und b) gilt: <ul><li>Nicht zusammen mit nitrosierenden Agenzien verwenden</li><li>Höchstgehalt an Nitrosamin: 50 μg/kg</li><li>In nitritfreien Behältern aufbewahren</li></ul></td>
+            <td valign="top">a) Das Mischverhältnis muss auf dem Eti&shy;kett angegeben werden.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">b) Haarfärbestoff in nichtoxida&shy;tiven Haarfär&shy;bemitteln</td>
+            <td valign="top">b) 1,0%</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">269</td>
+            <td valign="top">4-[(2-Nitrophenyl)amino]phenol<br>HC Orange No. 1<br>CAS-Nr. 54381-08-7<br>EG-Nr. 259-132-4</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">1,0 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">270</td>
+            <td valign="top">2-Nitro-N1-phenyl&shy;benzol-1,4-diamin<br>HC Red No. 1<br>CAS-Nr. 2784-89-6<br>EG-Nr. 220-494-3</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">1,0 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top"><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</td>
+        </tr>
+        <tr>
+            <td valign="top">271</td>
+            <td valign="top">1-Methoxy-3-(ß-aminoethyl)amino-4-nitrobenzol, Hydrochlorid<br>HC Yellow No. 9<br>CAS-Nr. 86419-69-4<br>EG-Nr. 415-480-1</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">0,5 % (berechnet als Hydrochlorid)</td>
+            <td valign="top"><ul><li>Nicht zusam&shy;men mit ni&shy;trosierenden Agenzien ver&shy;wenden</li><li>Höchstgehalt an Nitrosa&shy;min: 50 μg/kg</li><li>In nitritfreien Behältern aufbewahren</li></ul></td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">272</td>
+            <td valign="top">1-(4'-Aminophenylazo)-2-methyl-4-(bis-2-hydroxyethyl)amino&shy;benzol<br>HC Yellow No. 7<br>CAS-Nr. 104226-21-3<br>EG-Nr. 146-420-6</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">0,25 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">273</td>
+            <td valign="top">N-(2-Hydroxyethyl)-2-nitro-4-trifluormethylanilin<br>HC Yellow No. 13<br>CAS-Nr. 10442-83-8<br>EG-Nr. 443-760-2</td>
+            <td valign="top">a) Haarfärbestoff in oxidativen Haarfärbemit&shy;teln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">a) Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkon&shy;zentration bei der Anwen&shy;dung am Haar 2,5 % nicht überschreiten<br>Für a) und b) gilt:<ul><li>Nicht zu&shy;sammen mit nitrosieren&shy;den Agenzien verwenden</li><li>Höchstgehalt an Nitrosa&shy;min: 50 μg/kg</li><li>In nitritfreien Behältern aufbewahren</li></ul></td>
+            <td valign="top">a) Das Mischverhältnis muss auf dem Eti&shy;kett angegeben werden.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergische Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Personen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">b) Haarfärbestoff in nichtoxidativen Haarfär&shy;bemitteln</td>
+            <td valign="top">b) 2,5 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">274</td>
+            <td valign="top">Benzolaminium, 3-[(4,5-Dihydro-3-methyl-5-oxo-1-phenyl-1H-pyrazol4-yl)azo]-N,N,N-trimethyl, Chlorid<br>Basic Yellow 57<br>CAS-Nr. 68391-31-1<br>EG-Nr. 269-943-5</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">2,0 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">275</td>
+            <td valign="top">Ethanol, 2,2'-[[4-[(4-Aminophenyl)azo]phenyl]imino]bis-<br>Disperse Black 9<br>CAS-Nr. 20721-50-0<br>EG-Nr. 243-987-5</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">0,3 % (des Gemisches im Verhältnis 1:1 aus 2,2'-[4-(4-Aminophenylazo)phenylimino]diethanol und Lignosulfat)</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">276</td>
+            <td valign="top">9,10-Anthracendion, 1,4-bis [(2,3-Dihydroxypropyl)amino]-<br>HC Blue No. 14<br>CAS-Nr. 99788-75-7<br>EG-Nr. 421-470-7</td>
+            <td valign="top">Haarfärbestoff in nichtoxidativen Haarfärbemitteln</td>
+            <td valign="top">0,3 %</td>
+            <td valign="top"><ul><li>Nicht zusam&shy;men mit ni&shy;trosierenden Agenzien ver&shy;wenden</li><li>Höchstgehalt an Nitrosa&shy;min: 50 μg/kg</li><li>In nitritfreien Behältern aufbewahren</li></ul></td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">277</td>
+            <td valign="top">2-(4-Methyl-2-nitroanilin)ethanol<br>Hydroxyethyl-2-Nitro-p-Toluidine<br>CAS-Nr. 100418-33-5<br>EG-Nr. 408-090-7</td>
+            <td valign="top">a) Haarfärbestoff in oxidativen Haarfärbemit&shy;teln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">a) Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkon&shy;zentration bei der Anwen&shy;dung am Haar 1,0 % nicht überschreiten.<br>Für a) und b) gilt:<ul><li>Nicht zusam&shy;men mit ni&shy;trosierenden Agenzien ver&shy;wenden</li><li>Höchstgehalt an Nitrosa&shy;min: 50 μg/kg</li><li>In nitritfreien Behältern aufbewahren</li></ul></td>
+            <td valign="top">a) Das Misch&shy;verhältnis muss auf dem Eti&shy;kett angegeben wer&shy;den.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergi&shy;sche Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Per&shy;sonen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Aus&shy;schlag im Ge&shy;sicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">b) Haarfärbestoff in nichtoxida&shy;tiven Haarfär&shy;bemitteln</td>
+            <td valign="top">b) 1,0 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">278</td>
+            <td valign="top">1-Amino-2-nitro-4-(2',3'-dihydroxypropyl)amino-5-chlorbenzol + 1,4-bis-(2',3'-Dihydroxypropyl)amino-2-nitro-5-chlorbenzol<br>HC Red No. 10 + HC Red No. 11<br>CAS-Nr. 95576-89-9 + 95576-92-4</td>
+            <td valign="top">a) Haarfärbestoff in oxidativen Haarfärbemit&shy;teln</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">a) Nach dem Mischen unter oxidativen Bedingungen darf die Höchstkon&shy;zentration bei der Anwen&shy;dung am Haar 1,0 % nicht überschreiten.<br>Für a) und b) gilt:<ul><li>Nicht zusam&shy;men mit ni&shy;trosierenden Agenzien ver&shy;wenden</li><li>Höchstgehalt an Nitrosa&shy;min: 50 μg/kg</li><li>In nitritfreien Behältern aufbewahren</li></ul></td>
+            <td valign="top">a) Das Misch&shy;ver&shy;hältnis muss auf dem Eti&shy;kett an&shy;gegeben wer&shy;den.<br><img src="bgbl1_2010_j1146_0010.jpg" alt="bgbl1_2010_j1146_0010.jpg" title="bgbl1_2010_j1146_0010.jpg" /> Haarfärbe&shy;mittel können schwere allergi&shy;sche Reaktionen hervor&shy;rufen.<br>Bitte folgende Hin&shy;weise lesen und beachten:<br>Dieses Produkt ist nicht für Per&shy;sonen unter 16 Jahren be&shy;stimmt.<br>Temporäre Täto&shy;wierungen mit „schwarzem Hen&shy;na“ können das Al&shy;lergierisiko erhöhen. Färben Sie Ihr Haar nicht, <ul><li>wenn Sie einen Aus&shy;schlag im Ge&shy;sicht haben oder wenn Ihre Kopfhaut emp&shy;findlich, gereizt oder verletzt ist;</li><li>wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion fest&shy;gestellt haben;</li><li>wenn eine tem&shy;poräre Tätowierung mit „schwarzem Henna“ bei Ihnen schon einmal eine Reaktion ver&shy;ursacht hat.</td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">b) Haarfärbestoff in nichtoxida&shy;tiven Haarfär&shy;bemitteln“.</td>
+            <td valign="top">b) 2,0 %</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+    </tbody>
+</table>
+    
 
 (\*) Dieser Grenzwert gilt für den Stoff und nicht für das kosmetische
 Fertigerzeugnis.
@@ -12515,62 +12739,7 @@ Spalte d nicht überschreiten.
 
 *    *   10
 
-    *   Hydroxyethyl-2-Nitro-p-toluidine (CAS-Nr. 100418-33-5) und seine Salze
-
-    *
-        a)  Oxidationshaarfärbemittel
-
-
-
-
-    *
-        a)  2,0%
-
-
-
-
-    *   In Verbindung mit Wasserstoffperoxid gilt eine Höchstkonzentration bei
-        der Anwendung von 1,0%
-
-    *
-        a)            ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
-            Bitte folgende Hinweise lesen und beachten:
-            Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
-            Temporäre Tätowierungen mit „schwarzem Henna“ können das
-            Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
-
-            -   wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut
-                empfindlich, gereizt oder verletzt ist;
-
-
-            -   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
-                festgestellt haben;
-
-
-            -   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
-                einmal eine Reaktion verursacht hat.
-
-
-
-
-
-
-
-    *   31.12.2011
-
-
-*    *
-        b)  Nicht oxidierende Haarfärbemittel
-
-
-
-
-    *
-        b)  1,0%
-
-
-
-
+    *   (weggefallen)
 
 *    *   11
 
@@ -12781,66 +12950,7 @@ Spalte d nicht überschreiten.
 
 *    *   50
 
-    *   HC Red No 10 + HC Red No 11 (CAS-Nr. 95576-89-9 + 95576- 92-4) und
-        seine Salze
-
-    *
-        a)  Oxidationshaarfärbemittel
-
-
-
-
-    *
-        a)  2,0%
-
-
-
-
-    *   In Verbindung mit Wasserstoffperoxid gilt eine Höchstkonzentration bei
-        der Anwendung von 1,0%
-
-    *
-        a)            ![bgbl1_2010_j1146_0010.jpg](bgbl1_2010_j1146_0010.jpg)  Haarfärbemittel können schwere allergische Reaktionen hervorrufen.
-
-            Bitte folgende Hinweise lesen und beachten:
-
-            Dieses Produkt ist nicht für Personen unter 16 Jahren bestimmt.
-
-            Temporäre Tätowierungen mit „schwarzem Henna“ können das
-            Allergierisiko erhöhen. Färben Sie Ihr Haar nicht,
-
-            –   wenn Sie einen Ausschlag im Gesicht haben oder wenn Ihre Kopfhaut
-                empfindlich, gereizt oder verletzt ist;
-
-
-            –   wenn Sie schon einmal nach dem Färben Ihrer Haare eine Reaktion
-                festgestellt haben;
-
-
-            –   wenn eine temporäre Tätowierung mit „schwarzem Henna“ bei Ihnen schon
-                einmal eine Reaktion verursacht hat.
-
-
-
-
-
-
-
-    *   31.12.2011
-
-
-*    *
-        b)  Nicht oxidierende Haarfärbemittel
-
-
-
-
-    *
-        b)  1,0%
-
-
-
-
+    *   (weggefallen)
 
 *    *   51
 
